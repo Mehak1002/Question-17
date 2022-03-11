@@ -13,4 +13,4 @@ def check_duplicates():
             l2.append(i)
         else:
             print("element repeated is : ", i)
-
+check duplicates()
